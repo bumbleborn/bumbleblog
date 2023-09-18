@@ -9,6 +9,7 @@ url:         ""
 date_format: "%-d %b, %Y"
 header_pages:
  - about.md
+ image_path: {{site.baseurl}}/assets/images/
 
 # Google services
 google_verification:
