@@ -3,10 +3,9 @@ title:       bumble mumble
 email:       
 author:      bumbleborn
 description: "games and articles from bumbleborn."
-baseurl:     /bumbleblog
+# baseurl:     /bumbleblog
+url:         "https://bumblemumble.com"
 image_path:  /bumbleblog/assets/images/
-# baseurl:     ""
-url:         ""
 date_format: "%-d %b, %Y"
 header_pages:
  - about.md
