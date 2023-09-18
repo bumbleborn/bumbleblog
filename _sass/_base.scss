@@ -20,6 +20,12 @@ html, body {
 
 img {
   max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  // padding: $space-1;
+  padding-top: $space-1;
+  padding-bottom: $space-1;
 }
 
 em img {
