@@ -4,12 +4,12 @@ email:
 author:      bumbleborn
 description: "games and articles from bumbleborn."
 baseurl:     /bumbleblog
+image_path:  /bumbleblog/assets/images/
 # baseurl:     ""
 url:         ""
 date_format: "%-d %b, %Y"
 header_pages:
  - about.md
- image_path: {{site.baseurl}}/assets/images/
 
 # Google services
 google_verification:
