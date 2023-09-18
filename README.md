@@ -109,13 +109,6 @@ You will also need to tweak the header include `/{{ site.baseurl }}`:
 
 A relevant Jekyll Github Issue: <https://github.com/jekyll/jekyll/issues/332>
 
-### Contact Form
-
-The contact form uses <https://formspree.io/>. It will require you to fill the form out and submit it once, before going live, to confirm your email.
-
-More setup instructions and advanced options can be found at [https://formspree.io](https://formspree.io/)
-
-
 ### Disqus
 
 To configure Disqus, set up a [Disqus site](https://disqus.com/admin/create/) with the same name as your site. Then, in `_config.yml`, edit the `disqus_shortname` value to enable Disqus.
