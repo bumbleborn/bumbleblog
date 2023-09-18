@@ -5,9 +5,6 @@ date: 2019-01-26 19:22
 summary: Pixyll is available to you under the MIT license.
 categories: jekyll pixyll
 ---
-<iframe width="640" height="480" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-![test image](/assets/images/testImage.jpg)
-I’ve been down a bit of a rabbit hole regarding procedural generation lately. In particular, I’ve been studying techniques on lock and key dungeon generation, as it’s often called, though “dungeon” is a bit of a misnomer since most of these techniques can just as easily apply to other use cases. At its core, the lock and key model is about specifying paths of progression alongside the constraints to that progression. So while you absolutely can use it to generate a Zelda-like dungeon where you need to obtain keys or abilities to unlock new areas, you could also use it to model investigative games, where uncovering clues allows for new dialogue options that can affect the outcome of your mission, or use it to design an entire game world where each area, once completed, provides an item or triggers an event that lets you progress to the next one.
 
 Most people have an understanding of what the copyright and licensing obligations are for source code, but not everyone has practical experience.  There is a lot of information about how to use free and open source source code generally, but not necessarily how it works specifically.
 
