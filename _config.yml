@@ -3,8 +3,8 @@ title:       bumble mumble
 email:       
 author:      bumbleborn
 description: "games and articles from bumbleborn."
-# baseurl:     "bumbleblog"
-baseurl:     ""
+baseurl:     "bumbleblog"
+# baseurl:     ""
 url:         ""
 date_format: "%-d %b, %Y"
 header_pages:
