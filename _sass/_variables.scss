@@ -1,9 +1,16 @@
 // Important
 $base-text-color: #ddd !default;
-$base-light-color: #465b8a !default;
-$base-dark-color: #252c41 !default;
-$h-color: #eee !default;
-$page-bg-color: #2c3955 !default;
+$base-light-color: #777b83 !default;
+$base-dark-color: #1c1d1f !default;
+$h-color: #f7c456 !default;
+$accent-color: #f7c456 !default;
+$page-bg-color: #27292b !default;
+
+// $base-text-color: #ddd !default;
+// $base-light-color: #465b8a !default;
+// $base-dark-color: #252c41 !default;
+// $h-color: #eee !default;
+// $page-bg-color: #2c3955 !default;
 
 // Typography
 $base-font-size: 21px !default;
@@ -128,7 +135,7 @@ $hljs-change: $yellow;
 $hljs-chunk: $light-gray;
 
 // Posts
-$post-meta-color: #b2c7ff7a !default;
+$post-meta-color: #c5cde27a !default;
 
 // Header
 $header-border-top: thin solid #f3f3f3;

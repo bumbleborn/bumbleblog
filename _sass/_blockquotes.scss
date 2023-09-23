@@ -1,5 +1,5 @@
 blockquote {
-  border-left: 4px solid #455172;
+  border-left: 4px solid $base-light-color;
   font-style: italic;
   
   // padding: $space-1;
@@ -21,7 +21,7 @@ blockquote p {
 
 blockquote footer {
   border-radius: 5px;
-  background-color: #455172;
+  background-color: $base-dark-color;
   border-color: transparent;
   color: #ffffff79;
   font-size: .75rem;
