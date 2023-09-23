@@ -154,7 +154,7 @@ Most inline text formatting is available in table cells, block-level formatting 
 
 |----------------+----------------------+------------------------+----------------------------------|
 | Default header | Left header          |     Center header      |                     Right header |
-|----------------|:---------------------|:----------------------:|---------------------------------:|
+|----------------|:---------------------|:----------------------:|---------------------------------------:|
 | Default        | Left                 |        Center          |                            Right |
 | *Italic*       | **Bold**             |   ***Bold italic***    |                      `monospace` |
 | [link text](#) | ```code```           |     ~~Strikeout~~      |              <ins>Insertion<ins> |

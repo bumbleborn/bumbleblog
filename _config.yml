@@ -1,10 +1,10 @@
 # Site settings
-title:       bumble mumble
+title:       bumbleborn
 email:       
 author:      bumbleborn
 description: "games and articles from bumbleborn."
 # baseurl:     /bumbleblog
-url:         "https://bumblemumble.com"
+url:         "https://bumbleborn.com"
 image_path:  /assets/images/
 date_format: "%-d %b, %Y"
 header_pages:

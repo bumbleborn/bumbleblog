@@ -15,8 +15,8 @@ h6 {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
-  margin-top: 1em;
-  margin-bottom: .5em;
+  // margin-top: 1em;
+  margin-bottom: .4em;
   color: $h-color
 }
 
@@ -53,19 +53,19 @@ hr {
   margin-bottom: $space-3;
 }
 
-blockquote {
-  margin-top: $space-3;
-  margin-bottom: $space-3;
-  margin-left: 0;
-  padding-left: $space-2;
-  padding-right: $space-2;
-}
+// blockquote {
+//   margin-top: $space-3;
+//   margin-bottom: $space-3;
+//   margin-left: 0;
+//   padding-left: $space-2;
+//   padding-right: $space-2;
+// }
 
-blockquote,
-blockquote p {
-  font-size: $h3;
-  font-style: italic;
-}
+// blockquote,
+// blockquote p {
+//   font-size: $h3;
+//   font-style: italic;
+// }
 
 h1,
 .h1 {

@@ -5,7 +5,7 @@
 
 .posts .post {
   margin-bottom: 0.75em;
-  font-weight: 600;
+  font-weight: 300;
   border-bottom: thin solid #ffffff1f;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .post-link .post-title {
-  margin-top: 19px;
+  margin-top: 20px;
   font-weight: 600;
   color: $h-color;
 }
@@ -38,8 +38,8 @@
 .post-meta {
   width: auto;
   font-weight: 300;
-  margin: 0;
-  padding: .25em 0;
+  margin: 20;
+  // padding: .25em 0;
   color: $post-meta-color;
   font-style: italic;
 }
