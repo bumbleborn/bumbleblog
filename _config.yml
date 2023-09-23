@@ -8,6 +8,7 @@ url:         "https://bumbleborn.com"
 image_path:  /assets/images/
 date_format: "%-d %b, %Y"
 header_pages:
+ - games.md
  - about.md
 
 # defaults
@@ -19,7 +20,6 @@ defaults:
   values:
       layout: "post"
       permalink: /blog/:title/
-      color: red
 
 # Google services
 google_verification:
@@ -50,6 +50,7 @@ disqus_shortname:
 github_username:
 reddit_username:
 twitter_username: bumbleborn
+twitch_username: bumbleborn
 
 text:
   pagination:

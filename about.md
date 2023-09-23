@@ -5,4 +5,6 @@ permalink: /about/
 # tags: about
 ---
 
-Hello there, I'm Joe. I make games and have worked in games for close to 7 years.
+hello there,<br>I'm Joe and I make video games.
+
+This website is where I talk about them.
