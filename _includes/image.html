@@ -1,0 +1,31 @@
+<style>
+    figure {
+      margin: auto;
+    }
+    
+    figcaption {
+      color: rgb(148, 148, 148);
+      font-size: small;
+      padding-bottom: 30px;
+      text-align: center;
+    }
+</style>
+<!-- 
+<p>hi {{ site.image_path }}{{page.slug}}/{{include.id}} {{page.slug}}</p> -->
+
+<figure>
+    {% if page.slug %}
+        {% if include.width %}
+    <img src="{{ site.image_path }}{{ page.slug }}/{{ include.id }}" alt="{{ include.id }}" style="width: {{include.width}}% ">
+        {% else %}
+    <img src="{{ site.image_path }}{{ page.slug }}/{{ include.id }}" alt="{{ include.id }}" style="width:100%">
+        {% endif %}
+    {% else %}
+        {% if include.width %}
+    <img src="{{ site.image_path }}/{{ include.id }}" alt="{{ include.id }}" style="width: {{include.width}}% ">
+        {% else %}
+    <img src="{{ site.image_path }}/{{ include.id }}" alt="{{ include.id }}" style="width:100%">
+        {% endif %}
+    {% endif %}
+    <figcaption>{{ include.caption }}</figcaption>
+</figure>

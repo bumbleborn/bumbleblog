@@ -1,16 +1,16 @@
 <div class="social-icons">
   <div class="social-icons-right">
+    {% if site.twitter_username %}
+      <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"></a>
+    {% endif %}
+    {% if site.twitch_username %}
+    <a class="fa fa-twitch" href="https://www.twitch.tv/{{ site.twitch_username }}" target="_blank"></a>
+    {% endif %}
     {% if site.github_username %}
       <a class="fa fa-github" href="https://github.com/{{ site.github_username }}" target="_blank"></a>
     {% endif %}
     {% if site.reddit_username %}
     <a class="fa fa-reddit" href="https://reddit.com/user/{{ site.reddit_username }}" target="_blank"></a>
-    {% endif %}
-    {% if site.twitch_username %}
-    <a class="fa fa-twitch" href="https://www.twitch.tv/{{ site.twitch_username }}" target="_blank"></a>
-    {% endif %}
-    {% if site.twitter_username %}
-      <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"></a>
     {% endif %}
   </div>
 </div>
