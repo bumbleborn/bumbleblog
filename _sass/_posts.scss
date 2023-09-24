@@ -4,9 +4,11 @@
 }
 
 .posts .post {
-  margin-bottom: 0.75em;
+  // margin-top: 0.75em;
+  // margin-bottom: 0.75em;
   font-weight: 300;
-  border-bottom: thin solid #ffffff1f;
+  padding-bottom: 2.5em;
+  border-bottom: thin solid $post-divider-color;
 }
 
 .posts .post:last-child {
@@ -16,7 +18,7 @@
 }
 
 .post-link .post-title {
-  margin-top: 20px;
+  margin-top: 16px;
   font-weight: 600;
   color: $h-color;
 }
