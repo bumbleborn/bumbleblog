@@ -1,6 +1,7 @@
 @media screen and (min-width: $viewport-small) {
   html {
-    font-size: 16px;
+    // font-size: 16px;
+    font-size: .9rem;
   }
 
   h1,
@@ -48,13 +49,13 @@
 
 @media screen and (min-width: $viewport-medium) {
   html {
-    font-size: 18px;
+    font-size: 1.15rem;
   }
 }
 
 @media screen and (min-width: $viewport-large) {
   html {
-    font-size: 20px;
+    font-size: 1.2rem;
   }
 }
 
