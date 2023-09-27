@@ -5,6 +5,8 @@ permalink: /about/
 # tags: about
 ---
 
-hello there,<br>I'm Joe and I make video games.
+Hello there,<br>I'm bumbleborn on the web, in the real world I'm called Joe.
+
+I make <span class="highlighted-text"> _video games_</span>.
 
 This website is where I talk about them.

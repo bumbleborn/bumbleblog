@@ -13,17 +13,17 @@ $page-bg-color: #27292b !default;
 // $page-bg-color: #2c3955 !default;
 
 // Typography
-$base-font-size: 18px !default;
+$base-font-size: 1rem !default;
 $bold-font-weight: bold !default;
 $font-family:  'Open Sans','Helvetica Neue', Helvetica, sans-serif;
 // $font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 // $font-family: 'Helvetica Neue', Helvetica, sans-serif !default;
 
-$line-height: 1.8 !default;
+$line-height: 2rem !default;
 $heading-font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif !default;
 // $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 800 !default;
-$heading-line-height: 1.25 !default;
+$heading-line-height: 2.5rem !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 $h1: 2.8rem !default;
 $h2: 1.8rem !default;
@@ -104,8 +104,8 @@ $form-field-padding-x: .5rem !default;
 
 // Borders
 $border-color: $base-light-color !default;
-$border-width: 1px !default;
-$border-radius: 5px !default;
+$border-width: .15rem !default;
+$border-radius: .5rem !default;
 
 // Forms
 $form-field-font-size: 1rem;
@@ -114,7 +114,7 @@ $form-field-padding-y: .5rem;
 $form-field-padding-x: .5rem;
 
 // Code
-$pre-border-radius: 8px;
+$pre-border-radius: .65rem;
 $pre-background-color: $base-dark-color;
 $hljs-comment: $mid-gray;
 $hljs-keyword: $yellow;
@@ -147,10 +147,10 @@ $header-font-weight: 300;
 // Nav
 $nav-color: $h-color;
 $nav-link-color: $white;
-$nav-padding: $space-2;
+$nav-padding: .9rem;
 $nav-link-padding-x: $space-3;
-$nav-link-border-bottom: 2px dashed $accent-color;
-$nav-active-border-bottom: 2px solid   $accent-color;
+$nav-link-border-bottom: .15rem dashed $accent-color;
+$nav-active-border-bottom: .15rem solid   $accent-color;
 
 // Footer
 // $footer-border-top: thin solid #2c3955;

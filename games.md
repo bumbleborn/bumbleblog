@@ -21,7 +21,7 @@ A 2D metroidvania with no combat, set in the same world as Echo's Climb, this ga
 | [Steam](https://store.steampowered.com/app/1986400/Echos_Climb/){:target="_blank"}
 | Status: Still Cooking
 
-https://www.youtube.com/watch?v=ShoJxjV57cc&ab_channel=JosephFletcher-Ward
+https://www.youtube.com/watch?v=jmrx_JI34Ts&ab_channel=bumbleborn
 
 ---
 
