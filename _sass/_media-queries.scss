@@ -23,14 +23,14 @@
   }
 
   .site-header .site-title {
-    margin-top: 1rem;
+    margin-top: 2rem;
     font-size: $h2;
     float: left;
   }
 
   .site-header .site-nav {
     float: right;
-    margin-top: .1rem;
+    margin-top: 1.1rem;
   }
 
   // blockquote {
@@ -44,24 +44,34 @@
 
   .social-icons-right {
     float: right;
-    margin-top: -1rem;
+    margin-top: 0rem;
   }
 }
 
 @media screen and (min-width: $viewport-medium) {
   html {
     font-size: 1.15rem;
+    // font-size: 1rem;
+  }
+
+  .site-header a {
+    font-size: $h3;
   }
 
   .site-header .site-title {
     margin-top: 0;
-    font-size: $h2;
+    font-size: $h3;
     float: left;
   }
 
   .site-header .site-nav {
     float: right;
     margin-top: -.8rem;
+  }
+  
+  .social-icons-right {
+    float: right;
+    margin-top: -1rem;
   }
 }
 
