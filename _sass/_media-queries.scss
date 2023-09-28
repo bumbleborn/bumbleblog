@@ -1,7 +1,6 @@
 @media screen and (min-width: $viewport-small) {
   html {
-    // font-size: .9rem;
-    font-size: 1rem;
+    font-size: 16px;
   }
 
   h1,
@@ -19,18 +18,17 @@
   }
 
   .site-header a {
-    font-size: $h2;
+    font-size: $h4;
   }
 
   .site-header .site-title {
-    margin-top: 2rem;
-    font-size: $h2;
+    font-size: $h3;
     float: left;
   }
 
   .site-header .site-nav {
     float: right;
-    margin-top: 1.1rem;
+    margin-top: -.7rem;
   }
 
   // blockquote {
@@ -44,51 +42,19 @@
 
   .social-icons-right {
     float: right;
-    margin-top: 0rem;
+    margin-top: -1rem;
   }
 }
 
 @media screen and (min-width: $viewport-medium) {
   html {
-    font-size: 1.15rem;
-    // font-size: 1rem;
-  }
-
-  .site-header a {
-    font-size: $h3;
-  }
-
-  .site-header .site-title {
-    margin-top: 0;
-    font-size: $h3;
-    float: left;
-  }
-
-  .site-header .site-nav {
-    float: right;
-    margin-top: -.8rem;
-  }
-  
-  .social-icons-right {
-    float: right;
-    margin-top: -1rem;
+    font-size: 18px;
   }
 }
 
 @media screen and (min-width: $viewport-large) {
   html {
-    font-size: 1.2rem;
-  }
-  
-  .site-header .site-title {
-    // margin-top: 0.2rem;
-    font-size: $h2;
-    float: left;
-  }
-
-  .site-header .site-nav {
-    float: right;
-    margin-top: -.8rem;
+    font-size: 20px;
   }
 }
 
