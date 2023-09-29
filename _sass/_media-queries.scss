@@ -6,8 +6,7 @@
   h1,
   .h1 {
     font-size: $h1;
-    color: $h-color;
-    color: red;
+    color: $h-color
   }
 
   .site-header {
@@ -51,25 +50,11 @@
   html {
     font-size: 18px;
   }
-  
-  h1,
-  .h1 {
-    font-size: $h1;
-    color: $h-color;
-    color: blueviolet;
-  }
 }
 
 @media screen and (min-width: $viewport-large) {
   html {
     font-size: 20px;
-  }
-  
-  h1,
-  .h1 {
-    font-size: $h1;
-    color: $h-color;
-    color: blue;
   }
 }
 
@@ -77,12 +62,5 @@
   em img {
     max-width: $measure-width + 14;
     margin-left: -7em;
-  }
-  
-  h1,
-  .h1 {
-    font-size: $h1;
-    color: $h-color;
-    color: orange;
   }
 }

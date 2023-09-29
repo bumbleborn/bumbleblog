@@ -1,5 +1,5 @@
 blockquote {
-  border-left: 4px solid $base-light-color;
+  border-left: .15rem solid $base-light-color;
   font-style: italic;
   
   // padding: $space-1;
@@ -15,7 +15,7 @@ blockquote {
 
 blockquote,
 blockquote p {
-  font-size: $h3;
+  font-size: 1.1rem;
   font-style: italic;
 }
 
