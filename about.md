@@ -7,23 +7,28 @@ permalink: /about/
 
 Hello there,<br>I'm bumbleborn on the web, in the real world I'm called Joe.
 
-I make <span class="highlighted-text"> _video games_</span>
+I make <span class="highlighted-text">_video games_</span>
 
-This website is where I talk about them.
+I've been working in games for over 6 years.
 
-<span class="highlighted-text">A mini rundown on things I've done</span>
+<!-- <span class="highlighted-text">A mini rundown on things I've done</span>
 
+- released a demo for [Echo's Climb](https://store.steampowered.com/app/1986400/Echos_Climb/){:target="_blank"}
 - worked in games for over 6 years
-- released a demo for Echo's Climb
+- animated for Cartoon Network -->
 
-<details>
+
+<!-- <details>
 <summary>Resume</summary>
 
-- 2019 - 22
-    - Games Designer | SockMonkey Studios
+From 2019 - 22<br>
+    - Technical Designer | SockMonkey Studios<br>
 
-- 2019
-    - Short Animator Gig | Cartoon Network
+From 2019 - 22 <br>
+    - Games Designer | SockMonkey Studios<br>
+
+From 2019<br>
+    - Short Animator Gig | Cartoon Network<br> -->
 
 <!-- 
 2018 - 19
@@ -43,4 +48,4 @@ Won WorldSkills UK Gold Medal for Games Development
 2011
 I was a Salad Chef for a year.. a Chef... of Salad! -->
 
-</details>
+<!-- </details> -->
