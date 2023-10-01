@@ -5,11 +5,17 @@ permalink: /about/
 # tags: about
 ---
 
-Hello there,<br>I'm bumbleborn on the web, in the real world I'm called Joe.
+Hello there,<br>
 
-I make <span class="highlighted-text">_video games_</span>
+I'm bumbleborn and I make <span class="highlighted-text">_video games_</span>
 
-I've been working in games for over 6 years.
+I've been working in games for over 6 years, I'm currently a senior tech designer at a very cool game studio and I make small independent games on the side.
+
+I have a deep love for interesting games that play with established mechanics.
+
+
+
+
 
 <!-- <span class="highlighted-text">A mini rundown on things I've done</span>
 
