@@ -1,23 +1,25 @@
 .pagination {
   font-size: 1rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  // font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  $font-family:  'Open Sans','Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   text-align: center;
 }
 
 .pagination a, .pagination .disabled {
   -webkit-transition: all 0.2s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
   background: $button-bg-color;
   border-radius: 0.5em;
   // border: 0px solid #8f8f8f;
   color: $accent-color;
   padding: 1em 1.5em;
+  font-weight: 600;
 }
 
 .pagination .disabled, .pagination .pagination-meta {
-  opacity: 0.5;
+  opacity: 0.4;
 }
 
 .pagination .pagination-meta {
@@ -26,11 +28,12 @@
 
 .pagination a:hover, .pagination a:focus {
   background: $button-hover-color;
-  color: #ffffff;
+  color: $accent-color;
 }
 
 .pagination a:active {
-  background: #f7f7f7;
+  background: $accent-color;
+  color: $button-hover-color;
 }
 
 .pagination .button {

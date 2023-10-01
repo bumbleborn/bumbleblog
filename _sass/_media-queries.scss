@@ -64,3 +64,81 @@
     margin-left: -7em;
   }
 }
+
+
+@media screen and (orientation: portrait) {
+  html {
+    font-size: $mobile-base-font-size;
+  }
+
+  p,
+  dl,
+  ol,
+  ul {
+    font-size: $mobile-base-font-size;
+  }
+
+  h1,
+  .h1 {
+      font-size: 4.2rem;
+      padding-bottom: 2rem;
+  }
+  
+  h3,
+  .h3 {
+      font-size: 2.3rem;
+      padding-top: 1rem;
+      padding-bottom: 1.5rem;
+  }
+
+  img {
+    width: 100% !important;
+  }
+  // img {
+  //   // font-size: 100%;
+  //   // max-width: 100%;
+  //   // margin-left: -7em;
+  // }
+
+  .site-header .site-title {
+    font-size: 3rem;
+    // padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  .site-header nav a {
+    font-size: 3rem;
+  }
+
+  .social-icons-right {
+    float: right;
+    margin-top: 0rem;
+  }
+
+  .fa{
+    font-size: 2em !important;
+  }
+  
+  .meta,
+  .post-meta {
+    // padding: .8em 0;
+    font-size: .8rem;
+  }
+
+  .post-link .post-title {
+    margin-top: 0.85rem;
+  }
+  
+  .post-summary {
+    font-size: 1.9rem;
+  }
+  
+  .pagination {
+    font-size: 1.8rem !important;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .site-wrap {
+    padding-top: 2rem;
+  }
+}
